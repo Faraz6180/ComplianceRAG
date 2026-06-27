@@ -11,7 +11,7 @@ license: mit
 
 # ComplianceRAG — Multi-Agent RAG with Live Groundedness Scoring
 
-**Live demo:** [Open the Space](https://huggingface.co/spaces/Faraz6180/ComplianceRAG) <!-- update with your actual URL after deploying -->
+**Live demo:** [[Open the Space](https://huggingface.co/spaces/Faraz6180/ComplianceRAG)](https://huggingface.co/spaces/Faraz618/ComplianceRAG) <!-- update with your actual URL after deploying -->
 
 A small, self-contained Retrieval-Augmented Generation system that answers questions from a set of documents — but instead of just returning an answer, it shows you **how grounded that answer actually is** in the source material, which sentence it came from, and flags low-confidence answers for human review.
 
