@@ -9,7 +9,7 @@ pinned: false
 license: mit
 ---
 
-# ComplianceRAG — Multi-Agent RAG with Live Groundedness Scoring
+# ComplianceRAG — Multi-Agent RAG with Live Groundedness Scoring..
 
 **Live demo:** [[Open the Space](https://huggingface.co/spaces/Faraz6180/ComplianceRAG)](https://huggingface.co/spaces/Faraz618/ComplianceRAG) <!-- update with your actual URL after deploying -->
 <img width="1340" height="608" alt="image" src="https://github.com/user-attachments/assets/1518dafc-95c0-4452-bee1-b5242c3a1913" />
