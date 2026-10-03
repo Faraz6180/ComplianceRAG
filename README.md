@@ -1,5 +1,5 @@
 ---
-title: ComplianceRAGzzzz
+title: ComplianceRAGzzzzz
 emoji: 🔎
 colorFrom: blue
 colorTo: indigo
