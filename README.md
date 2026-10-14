@@ -1,6 +1,6 @@
 ---
-title: ComplianceRAG......
-emoji: 🔎.
+title: ComplianceRAG
+emoji: 🔎
 colorFrom: blue
 colorTo: indigo
 sdk: gradio
